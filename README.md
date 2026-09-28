@@ -36,6 +36,13 @@ Excel・CSV、ファイル整理、PDF、報告資料、Web情報などの定型
 | 20 | Googleスプレッドシートを集計 | [Colabで開く](https://colab.research.google.com/github/ishidamasanori66-max/python-colab-business-tips/blob/main/notebooks/Tips20_Colab.ipynb) |
 | 21 | 自由記述を分類して要約 | [Colabで開く](https://colab.research.google.com/github/ishidamasanori66-max/python-colab-business-tips/blob/main/notebooks/Tips21_Colab.ipynb) |
 
+
+## Appendix：PCとGoogle DriveのExcel入出力
+
+[Appendix_colab.ipynb をColabで開く](https://colab.research.google.com/github/ishidamasanori66-max/python-colab-business-tips/blob/main/notebooks/Appendix_colab.ipynb)
+
+Mac・Windows上のExcelをアップロードして読み込み、加工結果をPCへダウンロードする方法と、Google Driveからの読み込み・保存を試せます。ノートブック内で練習用Excelを生成できます。Google Driveの操作には本人の認証が必要です。
+
 ## 補足
 
 - Tips 19・20は練習部分は認証不要です。自分のGoogle Drive・スプレッドシートとの連携は任意で、本人の認証が必要です。
